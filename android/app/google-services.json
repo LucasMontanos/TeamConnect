@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "199502162114",
+    "project_id": "team-connect-sport",
+    "storage_bucket": "team-connect-sport.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199502162114:android:3a04f9358897f75d97f35b",
+        "android_client_info": {
+          "package_name": "com.example.teamconnect_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIdgotVXVvvnLiGgntEiMRWtQMJlterhk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
